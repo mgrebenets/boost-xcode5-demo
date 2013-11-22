@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>boost-xcode5-osx-demo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,16 @@
 			<true/>
 		</dict>
 		<key>E4BDF867183F364B0001F1AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E4BDF882183F37160001F1AF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E4BDF8A1183F37160001F1AF</key>
 		<dict>
 			<key>primary</key>
 			<true/>

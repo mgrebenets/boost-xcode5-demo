@@ -1,0 +1,12 @@
+# git ignore
+src/
+*.tar.bz2
+*.zip
+build/
+ios/
+osx/
+bak/
+dist/
+*.log
+
+

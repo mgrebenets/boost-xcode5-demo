@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E4BDF840183F364B0001F1AF"
-               BuildableName = "boost-xcode5-demo.app"
-               BlueprintName = "boost-xcode5-demo"
+               BlueprintIdentifier = "E4BDF882183F37160001F1AF"
+               BuildableName = "boost-xcode5-osx-demo.app"
+               BlueprintName = "boost-xcode5-osx-demo"
                ReferencedContainer = "container:boost-xcode5-demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,33 +28,13 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E4BDF867183F364B0001F1AF"
-               BuildableName = "boost-xcode5-demoTests.xctest"
-               BlueprintName = "boost-xcode5-demoTests"
-               ReferencedContainer = "container:boost-xcode5-demo.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E4BDF8A1183F37160001F1AF"
-               BuildableName = "boost-xcode5-osx-demoTests.xctest"
-               BlueprintName = "boost-xcode5-osx-demoTests"
-               ReferencedContainer = "container:boost-xcode5-demo.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E4BDF840183F364B0001F1AF"
-            BuildableName = "boost-xcode5-demo.app"
-            BlueprintName = "boost-xcode5-demo"
+            BlueprintIdentifier = "E4BDF882183F37160001F1AF"
+            BuildableName = "boost-xcode5-osx-demo.app"
+            BlueprintName = "boost-xcode5-osx-demo"
             ReferencedContainer = "container:boost-xcode5-demo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -71,9 +51,9 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E4BDF840183F364B0001F1AF"
-            BuildableName = "boost-xcode5-demo.app"
-            BlueprintName = "boost-xcode5-demo"
+            BlueprintIdentifier = "E4BDF882183F37160001F1AF"
+            BuildableName = "boost-xcode5-osx-demo.app"
+            BlueprintName = "boost-xcode5-osx-demo"
             ReferencedContainer = "container:boost-xcode5-demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -89,9 +69,9 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E4BDF840183F364B0001F1AF"
-            BuildableName = "boost-xcode5-demo.app"
-            BlueprintName = "boost-xcode5-demo"
+            BlueprintIdentifier = "E4BDF882183F37160001F1AF"
+            BuildableName = "boost-xcode5-osx-demo.app"
+            BlueprintName = "boost-xcode5-osx-demo"
             ReferencedContainer = "container:boost-xcode5-demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
