@@ -28,6 +28,16 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E4BDF8A1183F37160001F1AF"
+               BuildableName = "boost-xcode5-osx-demoTests.xctest"
+               BlueprintName = "boost-xcode5-osx-demoTests"
+               ReferencedContainer = "container:boost-xcode5-demo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference

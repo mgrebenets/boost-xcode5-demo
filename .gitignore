@@ -8,5 +8,6 @@ osx/
 bak/
 dist/
 *.log
-
+.DS_Store
+boost.framework/
 

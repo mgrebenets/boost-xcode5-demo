@@ -7,6 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E418D03518431DC800A4C7E4 /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02018431DC800A4C7E4 /* Game.cpp */; };
+		E418D03618431DC800A4C7E4 /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02018431DC800A4C7E4 /* Game.cpp */; };
+		E418D03718431DC800A4C7E4 /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02018431DC800A4C7E4 /* Game.cpp */; };
+		E418D03818431DC800A4C7E4 /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02018431DC800A4C7E4 /* Game.cpp */; };
+		E418D03D18431DC800A4C7E4 /* Move.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02518431DC800A4C7E4 /* Move.cpp */; };
+		E418D03E18431DC800A4C7E4 /* Move.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02518431DC800A4C7E4 /* Move.cpp */; };
+		E418D03F18431DC800A4C7E4 /* Move.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02518431DC800A4C7E4 /* Move.cpp */; };
+		E418D04018431DC800A4C7E4 /* Move.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02518431DC800A4C7E4 /* Move.cpp */; };
+		E418D04118431DC800A4C7E4 /* Player.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02718431DC800A4C7E4 /* Player.cpp */; };
+		E418D04218431DC800A4C7E4 /* Player.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02718431DC800A4C7E4 /* Player.cpp */; };
+		E418D04318431DC800A4C7E4 /* Player.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02718431DC800A4C7E4 /* Player.cpp */; };
+		E418D04418431DC800A4C7E4 /* Player.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02718431DC800A4C7E4 /* Player.cpp */; };
+		E418D04918431DC800A4C7E4 /* Rules.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02B18431DC800A4C7E4 /* Rules.cpp */; };
+		E418D04A18431DC800A4C7E4 /* Rules.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02B18431DC800A4C7E4 /* Rules.cpp */; };
+		E418D04B18431DC800A4C7E4 /* Rules.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02B18431DC800A4C7E4 /* Rules.cpp */; };
+		E418D04C18431DC800A4C7E4 /* Rules.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E418D02B18431DC800A4C7E4 /* Rules.cpp */; };
+		E418D050184320F500A4C7E4 /* boost.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E418D04F184320F500A4C7E4 /* boost.framework */; };
+		E418D051184320F500A4C7E4 /* boost.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E418D04F184320F500A4C7E4 /* boost.framework */; };
+		E418D0531843211B00A4C7E4 /* boost.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E418D0521843211B00A4C7E4 /* boost.framework */; };
+		E418D0541843211C00A4C7E4 /* boost.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E418D0521843211B00A4C7E4 /* boost.framework */; };
+		E49DFBFB18432E9200493FC0 /* BDGameTest.mm in Sources */ = {isa = PBXBuildFile; fileRef = E49DFBFA18432E9200493FC0 /* BDGameTest.mm */; };
+		E49DFBFC18432E9200493FC0 /* BDGameTest.mm in Sources */ = {isa = PBXBuildFile; fileRef = E49DFBFA18432E9200493FC0 /* BDGameTest.mm */; };
 		E4BDF845183F364B0001F1AF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4BDF844183F364B0001F1AF /* Foundation.framework */; };
 		E4BDF847183F364B0001F1AF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4BDF846183F364B0001F1AF /* CoreGraphics.framework */; };
 		E4BDF849183F364B0001F1AF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4BDF848183F364B0001F1AF /* UIKit.framework */; };
@@ -54,6 +76,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E418D02018431DC800A4C7E4 /* Game.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Game.cpp; sourceTree = "<group>"; };
+		E418D02118431DC800A4C7E4 /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game.h; sourceTree = "<group>"; };
+		E418D02418431DC800A4C7E4 /* ModelMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModelMacro.h; sourceTree = "<group>"; };
+		E418D02518431DC800A4C7E4 /* Move.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Move.cpp; sourceTree = "<group>"; };
+		E418D02618431DC800A4C7E4 /* Move.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Move.h; sourceTree = "<group>"; };
+		E418D02718431DC800A4C7E4 /* Player.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Player.cpp; sourceTree = "<group>"; };
+		E418D02818431DC800A4C7E4 /* Player.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Player.h; sourceTree = "<group>"; };
+		E418D02B18431DC800A4C7E4 /* Rules.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Rules.cpp; sourceTree = "<group>"; };
+		E418D02C18431DC800A4C7E4 /* Rules.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Rules.h; sourceTree = "<group>"; };
+		E418D04F184320F500A4C7E4 /* boost.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = boost.framework; path = vendor/ios/boost.framework; sourceTree = "<group>"; };
+		E418D0521843211B00A4C7E4 /* boost.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = boost.framework; path = vendor/osx/boost.framework; sourceTree = "<group>"; };
+		E49DFBFA18432E9200493FC0 /* BDGameTest.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = BDGameTest.mm; path = tests/BDGameTest.mm; sourceTree = "<group>"; };
 		E4BDF841183F364B0001F1AF /* boost-xcode5-demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "boost-xcode5-demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4BDF844183F364B0001F1AF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E4BDF846183F364B0001F1AF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -103,6 +137,7 @@
 			files = (
 				E4BDF847183F364B0001F1AF /* CoreGraphics.framework in Frameworks */,
 				E4BDF849183F364B0001F1AF /* UIKit.framework in Frameworks */,
+				E418D050184320F500A4C7E4 /* boost.framework in Frameworks */,
 				E4BDF845183F364B0001F1AF /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -113,6 +148,7 @@
 			files = (
 				E4BDF86A183F364B0001F1AF /* XCTest.framework in Frameworks */,
 				E4BDF86C183F364B0001F1AF /* UIKit.framework in Frameworks */,
+				E418D051184320F500A4C7E4 /* boost.framework in Frameworks */,
 				E4BDF86B183F364B0001F1AF /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -121,6 +157,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E418D0531843211B00A4C7E4 /* boost.framework in Frameworks */,
 				E4BDF885183F37160001F1AF /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -130,6 +167,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4BDF8A4183F37160001F1AF /* Cocoa.framework in Frameworks */,
+				E418D0541843211C00A4C7E4 /* boost.framework in Frameworks */,
 				E4BDF8A3183F37160001F1AF /* XCTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,9 +175,51 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E418D01B18431DC800A4C7E4 /* cpp-model */ = {
+			isa = PBXGroup;
+			children = (
+				E418D02018431DC800A4C7E4 /* Game.cpp */,
+				E418D02118431DC800A4C7E4 /* Game.h */,
+				E418D02418431DC800A4C7E4 /* ModelMacro.h */,
+				E418D02518431DC800A4C7E4 /* Move.cpp */,
+				E418D02618431DC800A4C7E4 /* Move.h */,
+				E418D02718431DC800A4C7E4 /* Player.cpp */,
+				E418D02818431DC800A4C7E4 /* Player.h */,
+				E418D02B18431DC800A4C7E4 /* Rules.cpp */,
+				E418D02C18431DC800A4C7E4 /* Rules.h */,
+			);
+			path = "cpp-model";
+			sourceTree = "<group>";
+		};
+		E418D04D1843209C00A4C7E4 /* osx */ = {
+			isa = PBXGroup;
+			children = (
+				E418D0521843211B00A4C7E4 /* boost.framework */,
+			);
+			name = osx;
+			sourceTree = "<group>";
+		};
+		E418D04E184320A000A4C7E4 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				E418D04F184320F500A4C7E4 /* boost.framework */,
+			);
+			name = ios;
+			sourceTree = "<group>";
+		};
+		E49DFBFD18432E9A00493FC0 /* tests */ = {
+			isa = PBXGroup;
+			children = (
+				E49DFBFA18432E9200493FC0 /* BDGameTest.mm */,
+			);
+			name = tests;
+			sourceTree = "<group>";
+		};
 		E4BDF838183F364B0001F1AF = {
 			isa = PBXGroup;
 			children = (
+				E49DFBFD18432E9A00493FC0 /* tests */,
+				E418D01B18431DC800A4C7E4 /* cpp-model */,
 				E4BDF84A183F364B0001F1AF /* boost-xcode5-demo */,
 				E4BDF86F183F364B0001F1AF /* boost-xcode5-demoTests */,
 				E4BDF88A183F37160001F1AF /* boost-xcode5-osx-demo */,
@@ -163,6 +243,8 @@
 		E4BDF843183F364B0001F1AF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				E418D04E184320A000A4C7E4 /* ios */,
+				E418D04D1843209C00A4C7E4 /* osx */,
 				E4BDF844183F364B0001F1AF /* Foundation.framework */,
 				E4BDF846183F364B0001F1AF /* CoreGraphics.framework */,
 				E4BDF848183F364B0001F1AF /* UIKit.framework */,
@@ -358,7 +440,7 @@
 						TestTargetID = E4BDF840183F364B0001F1AF;
 					};
 					E4BDF8A1183F37160001F1AF = {
-						TestTargetID = E4BDF840183F364B0001F1AF;
+						TestTargetID = E4BDF882183F37160001F1AF;
 					};
 				};
 			};
@@ -429,10 +511,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E418D03D18431DC800A4C7E4 /* Move.cpp in Sources */,
+				E418D04918431DC800A4C7E4 /* Rules.cpp in Sources */,
 				E4BDF861183F364B0001F1AF /* BDSecondViewController.m in Sources */,
+				E418D04118431DC800A4C7E4 /* Player.cpp in Sources */,
 				E4BDF85E183F364B0001F1AF /* BDFirstViewController.m in Sources */,
 				E4BDF855183F364B0001F1AF /* BDAppDelegate.m in Sources */,
 				E4BDF851183F364B0001F1AF /* main.m in Sources */,
+				E418D03518431DC800A4C7E4 /* Game.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -440,7 +526,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E418D03E18431DC800A4C7E4 /* Move.cpp in Sources */,
+				E49DFBFB18432E9200493FC0 /* BDGameTest.mm in Sources */,
+				E418D04A18431DC800A4C7E4 /* Rules.cpp in Sources */,
+				E418D04218431DC800A4C7E4 /* Player.cpp in Sources */,
 				E4BDF876183F364B0001F1AF /* boost_xcode5_demoTests.m in Sources */,
+				E418D03618431DC800A4C7E4 /* Game.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -448,8 +539,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E418D04318431DC800A4C7E4 /* Player.cpp in Sources */,
 				E4BDF898183F37160001F1AF /* BDAppDelegate.m in Sources */,
+				E418D03F18431DC800A4C7E4 /* Move.cpp in Sources */,
 				E4BDF891183F37160001F1AF /* main.m in Sources */,
+				E418D04B18431DC800A4C7E4 /* Rules.cpp in Sources */,
+				E418D03718431DC800A4C7E4 /* Game.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,7 +552,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E418D04018431DC800A4C7E4 /* Move.cpp in Sources */,
+				E49DFBFC18432E9200493FC0 /* BDGameTest.mm in Sources */,
+				E418D04C18431DC800A4C7E4 /* Rules.cpp in Sources */,
+				E418D04418431DC800A4C7E4 /* Player.cpp in Sources */,
 				E4BDF8AE183F37160001F1AF /* boost_xcode5_osx_demoTests.m in Sources */,
+				E418D03818431DC800A4C7E4 /* Game.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -623,9 +723,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/grebenetsm/Projects/vendor/boost-xcode5-demo/vendor/ios",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "boost-xcode5-demo/boost-xcode5-demo-Prefix.pch";
 				INFOPLIST_FILE = "boost-xcode5-demo/boost-xcode5-demo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -636,9 +741,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"/Users/grebenetsm/Projects/vendor/boost-xcode5-demo/vendor/ios",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "boost-xcode5-demo/boost-xcode5-demo-Prefix.pch";
 				INFOPLIST_FILE = "boost-xcode5-demo/boost-xcode5-demo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -647,12 +757,12 @@
 		E4BDF87D183F364B0001F1AF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/boost-xcode5-demo.app/boost-xcode5-demo";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(SRCROOT)/vendor/ios",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "boost-xcode5-demo/boost-xcode5-demo-Prefix.pch";
@@ -661,6 +771,7 @@
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = "boost-xcode5-demoTests/boost-xcode5-demoTests-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -670,16 +781,17 @@
 		E4BDF87E183F364B0001F1AF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/boost-xcode5-demo.app/boost-xcode5-demo";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(SRCROOT)/vendor/ios",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "boost-xcode5-demo/boost-xcode5-demo-Prefix.pch";
 				INFOPLIST_FILE = "boost-xcode5-demoTests/boost-xcode5-demoTests-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -694,6 +806,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(SRCROOT)/vendor/osx",
 				);
 				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -719,6 +832,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(SRCROOT)/vendor/osx",
 				);
 				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -734,11 +848,12 @@
 		E4BDF8B3183F37170001F1AF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/boost-xcode5-demo.app/boost-xcode5-demo";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/boost-xcode5-osx-demo.app/Contents/MacOS/boost-xcode5-osx-demo";
 				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 					"$(inherited)",
+					"$(SRCROOT)/vendor/osx",
 				);
 				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -759,12 +874,13 @@
 		E4BDF8B4183F37170001F1AF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/boost-xcode5-demo.app/boost-xcode5-demo";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/boost-xcode5-osx-demo.app/Contents/MacOS/boost-xcode5-osx-demo";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 					"$(inherited)",
+					"$(SRCROOT)/vendor/osx",
 				);
 				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -797,6 +913,7 @@
 				E4BDF87B183F364B0001F1AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E4BDF87C183F364B0001F1AF /* Build configuration list for PBXNativeTarget "boost-xcode5-demoTests" */ = {
 			isa = XCConfigurationList;
@@ -805,6 +922,7 @@
 				E4BDF87E183F364B0001F1AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E4BDF8AF183F37170001F1AF /* Build configuration list for PBXNativeTarget "boost-xcode5-osx-demo" */ = {
 			isa = XCConfigurationList;
@@ -813,6 +931,7 @@
 				E4BDF8B1183F37170001F1AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E4BDF8B2183F37170001F1AF /* Build configuration list for PBXNativeTarget "boost-xcode5-osx-demoTests" */ = {
 			isa = XCConfigurationList;
@@ -821,6 +940,7 @@
 				E4BDF8B4183F37170001F1AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
