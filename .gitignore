@@ -1,5 +1,6 @@
 # git ignore
 src/
+*.tar
 *.tar.bz2
 *.zip
 build/
