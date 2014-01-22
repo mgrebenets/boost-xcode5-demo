@@ -27,6 +27,10 @@
 		E418D051184320F500A4C7E4 /* boost.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E418D04F184320F500A4C7E4 /* boost.framework */; };
 		E418D0531843211B00A4C7E4 /* boost.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E418D0521843211B00A4C7E4 /* boost.framework */; };
 		E418D0541843211C00A4C7E4 /* boost.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E418D0521843211B00A4C7E4 /* boost.framework */; };
+		E41C2BBD188F3B8E00F1AA3A /* ThreadDemo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E41C2BBB188F3B8E00F1AA3A /* ThreadDemo.cpp */; };
+		E41C2BBE188F3B8E00F1AA3A /* ThreadDemo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E41C2BBB188F3B8E00F1AA3A /* ThreadDemo.cpp */; };
+		E41C2BBF188F3B8E00F1AA3A /* ThreadDemo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E41C2BBB188F3B8E00F1AA3A /* ThreadDemo.cpp */; };
+		E41C2BC0188F3B8E00F1AA3A /* ThreadDemo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E41C2BBB188F3B8E00F1AA3A /* ThreadDemo.cpp */; };
 		E49DFBFB18432E9200493FC0 /* BDGameTest.mm in Sources */ = {isa = PBXBuildFile; fileRef = E49DFBFA18432E9200493FC0 /* BDGameTest.mm */; };
 		E49DFBFC18432E9200493FC0 /* BDGameTest.mm in Sources */ = {isa = PBXBuildFile; fileRef = E49DFBFA18432E9200493FC0 /* BDGameTest.mm */; };
 		E4BDF845183F364B0001F1AF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4BDF844183F364B0001F1AF /* Foundation.framework */; };
@@ -34,7 +38,7 @@
 		E4BDF849183F364B0001F1AF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4BDF848183F364B0001F1AF /* UIKit.framework */; };
 		E4BDF84F183F364B0001F1AF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E4BDF84D183F364B0001F1AF /* InfoPlist.strings */; };
 		E4BDF851183F364B0001F1AF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E4BDF850183F364B0001F1AF /* main.m */; };
-		E4BDF855183F364B0001F1AF /* BDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E4BDF854183F364B0001F1AF /* BDAppDelegate.m */; };
+		E4BDF855183F364B0001F1AF /* BDAppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = E4BDF854183F364B0001F1AF /* BDAppDelegate.mm */; };
 		E4BDF858183F364B0001F1AF /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4BDF856183F364B0001F1AF /* Main_iPhone.storyboard */; };
 		E4BDF85B183F364B0001F1AF /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4BDF859183F364B0001F1AF /* Main_iPad.storyboard */; };
 		E4BDF85E183F364B0001F1AF /* BDFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E4BDF85D183F364B0001F1AF /* BDFirstViewController.m */; };
@@ -49,7 +53,7 @@
 		E4BDF88F183F37160001F1AF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E4BDF88D183F37160001F1AF /* InfoPlist.strings */; };
 		E4BDF891183F37160001F1AF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E4BDF890183F37160001F1AF /* main.m */; };
 		E4BDF895183F37160001F1AF /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = E4BDF893183F37160001F1AF /* Credits.rtf */; };
-		E4BDF898183F37160001F1AF /* BDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E4BDF897183F37160001F1AF /* BDAppDelegate.m */; };
+		E4BDF898183F37160001F1AF /* BDAppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = E4BDF897183F37160001F1AF /* BDAppDelegate.mm */; };
 		E4BDF89B183F37160001F1AF /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = E4BDF899183F37160001F1AF /* MainMenu.xib */; };
 		E4BDF89D183F37160001F1AF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4BDF89C183F37160001F1AF /* Images.xcassets */; };
 		E4BDF8A3183F37160001F1AF /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4BDF869183F364B0001F1AF /* XCTest.framework */; };
@@ -87,6 +91,8 @@
 		E418D02C18431DC800A4C7E4 /* Rules.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Rules.h; sourceTree = "<group>"; };
 		E418D04F184320F500A4C7E4 /* boost.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = boost.framework; path = vendor/ios/boost.framework; sourceTree = "<group>"; };
 		E418D0521843211B00A4C7E4 /* boost.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = boost.framework; path = vendor/osx/boost.framework; sourceTree = "<group>"; };
+		E41C2BBB188F3B8E00F1AA3A /* ThreadDemo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ThreadDemo.cpp; sourceTree = "<group>"; };
+		E41C2BBC188F3B8E00F1AA3A /* ThreadDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreadDemo.h; sourceTree = "<group>"; };
 		E49DFBFA18432E9200493FC0 /* BDGameTest.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = BDGameTest.mm; path = tests/BDGameTest.mm; sourceTree = "<group>"; };
 		E4BDF841183F364B0001F1AF /* boost-xcode5-demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "boost-xcode5-demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4BDF844183F364B0001F1AF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -97,7 +103,7 @@
 		E4BDF850183F364B0001F1AF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E4BDF852183F364B0001F1AF /* boost-xcode5-demo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "boost-xcode5-demo-Prefix.pch"; sourceTree = "<group>"; };
 		E4BDF853183F364B0001F1AF /* BDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BDAppDelegate.h; sourceTree = "<group>"; };
-		E4BDF854183F364B0001F1AF /* BDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BDAppDelegate.m; sourceTree = "<group>"; };
+		E4BDF854183F364B0001F1AF /* BDAppDelegate.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = BDAppDelegate.mm; sourceTree = "<group>"; };
 		E4BDF857183F364B0001F1AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		E4BDF85A183F364B0001F1AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
 		E4BDF85C183F364B0001F1AF /* BDFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BDFirstViewController.h; sourceTree = "<group>"; };
@@ -121,7 +127,7 @@
 		E4BDF892183F37160001F1AF /* boost-xcode5-osx-demo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "boost-xcode5-osx-demo-Prefix.pch"; sourceTree = "<group>"; };
 		E4BDF894183F37160001F1AF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
 		E4BDF896183F37160001F1AF /* BDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BDAppDelegate.h; sourceTree = "<group>"; };
-		E4BDF897183F37160001F1AF /* BDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BDAppDelegate.m; sourceTree = "<group>"; };
+		E4BDF897183F37160001F1AF /* BDAppDelegate.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = BDAppDelegate.mm; sourceTree = "<group>"; };
 		E4BDF89A183F37160001F1AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		E4BDF89C183F37160001F1AF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		E4BDF8A2183F37160001F1AF /* boost-xcode5-osx-demoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "boost-xcode5-osx-demoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -187,6 +193,8 @@
 				E418D02818431DC800A4C7E4 /* Player.h */,
 				E418D02B18431DC800A4C7E4 /* Rules.cpp */,
 				E418D02C18431DC800A4C7E4 /* Rules.h */,
+				E41C2BBB188F3B8E00F1AA3A /* ThreadDemo.cpp */,
+				E41C2BBC188F3B8E00F1AA3A /* ThreadDemo.h */,
 			);
 			path = "cpp-model";
 			sourceTree = "<group>";
@@ -259,7 +267,7 @@
 			isa = PBXGroup;
 			children = (
 				E4BDF853183F364B0001F1AF /* BDAppDelegate.h */,
-				E4BDF854183F364B0001F1AF /* BDAppDelegate.m */,
+				E4BDF854183F364B0001F1AF /* BDAppDelegate.mm */,
 				E4BDF856183F364B0001F1AF /* Main_iPhone.storyboard */,
 				E4BDF859183F364B0001F1AF /* Main_iPad.storyboard */,
 				E4BDF85C183F364B0001F1AF /* BDFirstViewController.h */,
@@ -315,7 +323,7 @@
 			isa = PBXGroup;
 			children = (
 				E4BDF896183F37160001F1AF /* BDAppDelegate.h */,
-				E4BDF897183F37160001F1AF /* BDAppDelegate.m */,
+				E4BDF897183F37160001F1AF /* BDAppDelegate.mm */,
 				E4BDF899183F37160001F1AF /* MainMenu.xib */,
 				E4BDF89C183F37160001F1AF /* Images.xcassets */,
 				E4BDF88B183F37160001F1AF /* Supporting Files */,
@@ -516,9 +524,10 @@
 				E4BDF861183F364B0001F1AF /* BDSecondViewController.m in Sources */,
 				E418D04118431DC800A4C7E4 /* Player.cpp in Sources */,
 				E4BDF85E183F364B0001F1AF /* BDFirstViewController.m in Sources */,
-				E4BDF855183F364B0001F1AF /* BDAppDelegate.m in Sources */,
+				E4BDF855183F364B0001F1AF /* BDAppDelegate.mm in Sources */,
 				E4BDF851183F364B0001F1AF /* main.m in Sources */,
 				E418D03518431DC800A4C7E4 /* Game.cpp in Sources */,
+				E41C2BBD188F3B8E00F1AA3A /* ThreadDemo.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -526,6 +535,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E41C2BBE188F3B8E00F1AA3A /* ThreadDemo.cpp in Sources */,
 				E418D03E18431DC800A4C7E4 /* Move.cpp in Sources */,
 				E49DFBFB18432E9200493FC0 /* BDGameTest.mm in Sources */,
 				E418D04A18431DC800A4C7E4 /* Rules.cpp in Sources */,
@@ -539,8 +549,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E41C2BBF188F3B8E00F1AA3A /* ThreadDemo.cpp in Sources */,
 				E418D04318431DC800A4C7E4 /* Player.cpp in Sources */,
-				E4BDF898183F37160001F1AF /* BDAppDelegate.m in Sources */,
+				E4BDF898183F37160001F1AF /* BDAppDelegate.mm in Sources */,
 				E418D03F18431DC800A4C7E4 /* Move.cpp in Sources */,
 				E4BDF891183F37160001F1AF /* main.m in Sources */,
 				E418D04B18431DC800A4C7E4 /* Rules.cpp in Sources */,
@@ -552,6 +563,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E41C2BC0188F3B8E00F1AA3A /* ThreadDemo.cpp in Sources */,
 				E418D04018431DC800A4C7E4 /* Move.cpp in Sources */,
 				E49DFBFC18432E9200493FC0 /* BDGameTest.mm in Sources */,
 				E418D04C18431DC800A4C7E4 /* Rules.cpp in Sources */,

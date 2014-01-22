@@ -7,12 +7,16 @@
 //
 
 #import "BDAppDelegate.h"
+#import "ThreadDemo.h"
 
 @implementation BDAppDelegate
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     // Insert code here to initialize your application
+
+    ThreadDemo demo;
+    demo.Demo();
 }
 
 @end

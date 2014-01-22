@@ -11,3 +11,11 @@ dist/
 .DS_Store
 boost.framework/
 
+# xcode noise
+*.pbxuser
+*.mode1v3
+.picasa.ini
+
+# user-specific Xcode files
+*.xcuserstate
+*.xcuserdatad

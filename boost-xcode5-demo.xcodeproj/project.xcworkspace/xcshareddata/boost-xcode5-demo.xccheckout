@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DE7A3A70-8F32-4446-82DD-7BF419CB9E13</string>
+	<key>IDESourceControlProjectName</key>
+	<string>boost-xcode5-demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>31B14440-7B54-47D0-B816-C50CC21518EE</key>
+		<string>https://github.com/mgrebenets/boost-xcode5-demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>boost-xcode5-demo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>31B14440-7B54-47D0-B816-C50CC21518EE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mgrebenets/boost-xcode5-demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>31B14440-7B54-47D0-B816-C50CC21518EE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>31B14440-7B54-47D0-B816-C50CC21518EE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>boost-xcode5-demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -7,11 +7,16 @@
 //
 
 #import "BDAppDelegate.h"
+#import "ThreadDemo.h"
 
 @implementation BDAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+
+    ThreadDemo demo;
+    demo.Demo();
+    
     // Override point for customization after application launch.
     return YES;
 }
