@@ -737,7 +737,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"/Users/grebenetsm/Projects/vendor/boost-xcode5-demo/vendor/ios",
+					"$(SRCROOT)/vendor/ios",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "boost-xcode5-demo/boost-xcode5-demo-Prefix.pch";
@@ -755,7 +755,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"/Users/grebenetsm/Projects/vendor/boost-xcode5-demo/vendor/ios",
+					"$(SRCROOT)/vendor/ios",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "boost-xcode5-demo/boost-xcode5-demo-Prefix.pch";
